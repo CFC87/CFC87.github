@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student at Fudan University, majoring in Intelligence Science and Engineering. I am currently working as a research intern at System Research Group of Microsoft Research Asia (MSRA).
+I am a final-year undergraduate student at [Fudan University](https://www.fudan.edu.cn/), majoring in Intelligence Science and Engineering. I am currently a research intern at [System Research Group of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/?).
 
-Previously, I was a research intern at Nanyang Technological University, where I worked with Prof. Siqiang Luo on self-adaptive LSM-Tree based storage system. I have also worked with Prof. Yang Yu from IIIS, Tsinghua University on causal intervention for the robustness of NLP models. During the summer of 2022, I visited RISE Lab at UC Berkeley and worked with Dr. Dixin Tang and Prof. Aditya Parameswaran on efficent dependency management in spreadsheets.
+Previously, I was a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse), where I worked with [Prof. Siqiang Luo](https://siqiangluo.wixsite.com/homepage) on self-adaptive LSM-Tree based storage system. I have also worked with [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/) from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) on causal intervention for the robustness of NLP models. During the summer of 2022, I visited [RISE Lab at UC Berkeley](https://rise.cs.berkeley.edu/) and worked with [Dr. Dixin Tang](https://people.eecs.berkeley.edu/~totemtang/) and [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) on efficient dependency management in spreadsheets.
 
