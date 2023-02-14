@@ -12,6 +12,8 @@ I am a final-year undergraduate student at [Fudan University](https://www.fudan.
 
 Previously, I was a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse), where I worked with [Prof. Siqiang Luo](https://siqiangluo.wixsite.com/homepage) on self-adaptive LSM-Tree based storage system. I have also worked with [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/) from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) on causal intervention for the robustness of NLP models. During the summer of 2022, I visited [RISE Lab at UC Berkeley](https://rise.cs.berkeley.edu/) and worked with [Dr. Dixin Tang](https://people.eecs.berkeley.edu/~totemtang/) and [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) on efficient dependency management in spreadsheets.
 
+**I am applying for CS PhD starting from Fall 2023.**
+
 ## Research Interests
 My research interests focus on leveraging data-driven algorithms to improve the eﬀiciency and adaptability of data-intensive systems and democratize data science to users.
 
