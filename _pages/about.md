@@ -19,12 +19,12 @@ My research interests lie in the intersection of data-intensive systems and algo
 
 ## Publications
 ### ML for Systems
-* Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads. *Under Review for SIGMOD 2024*
-* Azure Virtual NUMA Placement Optimization. *In Preparation*
+* Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads. *Under Revision for SIGMOD 2024*
+* Virtual NUMA Placement for Large-Scale Production Clusters. *Under Review*
 
 ### Data Management
 * Efficient and Compact Spreadsheet Formula Graphs. *Accepted by ICDE 2023*
-* Compact Formula Dependency Tracing and Visualization. *In Preparation*
+* Compact Formula Dependency Tracing and Visualization. *Under Review*
 
 ### NLP
 * Robust Language Models via Causality. *Under Review*
