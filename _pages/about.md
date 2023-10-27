@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student at [Fudan University](https://www.fudan.edu.cn/), majoring in Intelligence Science and Engineering. I am currently a research intern at [System Research Group of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/?).
+I am currently a first-year CS PhD student at UW-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). Before that, I received my bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2023.
 
-Previously, I was a research intern at [Nanyang Technological University](https://www.ntu.edu.sg/scse), where I worked with [Prof. Siqiang Luo](https://siqiangluo.com/) on self-adaptive LSM-Tree based storage system. I have also worked with [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/) from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) on causal intervention for the robustness of NLP models. During the summer of 2022, I visited [RISE Lab at UC Berkeley](https://rise.cs.berkeley.edu/) and worked with [Dr. Dixin Tang](https://people.eecs.berkeley.edu/~totemtang/) and [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) on efficient dependency management in spreadsheets.
-
-**I am applying for CS PhD starting from Fall 2023.**
+During my undergraduate studies, I have worked at [System Research Group of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [RISE Lab at UC Berkeley](https://rise.cs.berkeley.edu/), [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse)
 
 ## Research Interests
-My research interests lie in the intersection of data-intensive systems and algorithms.
+My research interests lie in the intersection of machine learning and data-intensive systems.
+
+## Publications
+- [SIGMOD 2024] Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads. Dingheng Mo, Fanchao Chen, Siqiang Luo, Caihua Shan.
+- [ICDE 2023] Eﬃcient and Compact Spreadsheet Formula Graphs. Dixin Tang, Fanchao Chen, Christopher De Leon, Tana Wattanawaroon, Jeaseok Yun, Srinivasan Seshadri, Aditya G Parameswaran.
+- [VLDB Demo 2023] Visualizing Spreadsheet Formula Graphs Compactly. Fanchao Chen, Dixin Tang, Haotian Li, Aditya G Parameswaran.
+
+## Manuscripts
+- Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study.
+- Robust and Eﬃcient Learning-based Virtual NUMA Placement for Large-Scale Production Clusters.
