@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a first-year CS PhD student at UW-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). Before that, I received my bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2023.
 
-During my undergraduate studies, I have worked at [System Research Group of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [RISE Lab at UC Berkeley](https://rise.cs.berkeley.edu/), [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse). I had industry internships at Moonshot AI and Wish.
+During my undergraduate studies, I have worked at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [UC Berkeley](https://rise.cs.berkeley.edu/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse). I had industry internships at Moonshot AI and Wish.
 
 ## Research Interests
 My research interests lie in the intersection of machine learning and data-intensive systems.
