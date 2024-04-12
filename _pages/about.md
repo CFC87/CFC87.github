@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year CS PhD student at UW-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). Before that, I received my bachelor degree from [Fudan University](https://www.fudan.edu.cn/) in 2023.
-
-During my undergraduate studies, I have worked at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [UC Berkeley](https://rise.cs.berkeley.edu/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse). I had industry internships at Moonshot AI and Wish.
+I am a first-year CS PhD student at the University of Wisconsin-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). Before this, I was an undergraduate student at [Fudan University](https://www.fudan.edu.cn/). I had wonderful times at [Moonshot AI](https://kimi.moonshot.cn/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [UC Berkeley](https://rise.cs.berkeley.edu/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse).
 
 ## Research Interests
-My research interests lie in the intersection of machine learning and data-intensive systems.
+Machine Learning Systems, Large Language Models, Data-intensive Systems
 
 ## Publications
 - [SIGMOD 2024] Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads. Dingheng Mo, Fanchao Chen, Siqiang Luo, Caihua Shan.
