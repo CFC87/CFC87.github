@@ -19,5 +19,4 @@ Machine Learning Systems, Large Language Models, Data-intensive Systems
 - [VLDB Demo 2023] Visualizing Spreadsheet Formula Graphs Compactly. Fanchao Chen, Dixin Tang, Haotian Li, Aditya G Parameswaran.
 
 ## Manuscripts
-- Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study.
 - Robust and Eﬃcient Learning-based Virtual NUMA Placement for Large-Scale Production Clusters.
