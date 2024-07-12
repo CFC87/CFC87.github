@@ -84,9 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "First-year CS PhD Student"
   location         : "Madison, WI"
-  employer         : "UW-Madison"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=DxyOsVQAAAAJ&hl=en"
+  employer         : 
   email            : "fchen239@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,12 +95,13 @@ author:
   facebook         :
   foursquare       :
   github           : "CFC87"
+  wechat           : "13818213790"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chenfanchao/"
   orcid            : 
   pinterest        :
   soundcloud       :
