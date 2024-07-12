@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS PhD student at the University of Wisconsin-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). Before this, I was an undergraduate student at [Fudan University](https://www.fudan.edu.cn/). I had wonderful times at [Moonshot AI](https://kimi.moonshot.cn/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [UC Berkeley](https://rise.cs.berkeley.edu/), and [Nanyang Technological University](https://www.ntu.edu.sg/scse).
+Hi! I am Fanchao Chen, a CS PhD student at the University of Wisconsin-Madison, working with [Prof. Shivaram Venkataraman](https://shivaram.org/). I obtained my bachelor degree in Intelligence Science and Engineering from Fudan University, Shanghai.
+
+Before starting my PhD studies, I had wonderful times at [Moonshot AI](https://www.moonshot.cn/), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/research-area/systems-and-networking/), [University of California, Berkeley](https://rise.cs.berkeley.edu/), and [Nanyang Technological University](https://www3.ntu.edu.sg/computing/DMAL/Dante/).
 
 ## Research Interests
 Machine Learning Systems, Large Language Models, Data-intensive Systems
